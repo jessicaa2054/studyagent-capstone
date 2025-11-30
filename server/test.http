@@ -1,0 +1,7 @@
+### Test Multi-Agent Route
+POST http://localhost:5000/api/agent/ask
+Content-Type: application/json
+
+{
+  "question": "Explain CPU organization."
+}
